@@ -1,1 +1,2 @@
 # Multiple-Linear-Regression-Model-to-Predict-Wind-Turbine-Energy-Generation.
+• The project consisted in different steps. First, imported the necessary libraries (Pandas, NumPy, Matplotlib, SciKit-Learn, Seaborn). Then loaded and cleaned the data, and prepared it for modeling. Then, split the data into training and test sets, built the model, and evaluated its performance on the test set using mean squared error and R-squared metrics.
